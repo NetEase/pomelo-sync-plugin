@@ -1,0 +1,9 @@
+{
+  "name": "pomelo-sync-plugin",
+  "version": "0.0.1",
+  "private": false,
+  "dependencies": {
+    "pomelo-sync": "0.0.3",
+    "pomelo-logger": "0.0.3"
+  }
+}
