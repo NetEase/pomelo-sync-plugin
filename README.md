@@ -25,4 +25,6 @@ app.use(sync, {sync: {
   key2: value2
 }});
 
+//get
+app.get('globalChannelService');
 ```
